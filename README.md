@@ -16,7 +16,7 @@ Familiar with Svelte and want to contribute? Check out [contribute.md](./contrib
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ch33kaboo/tictacfun.git
+   git clone https://github.com/chakibouzane/tictacfun.git
    cd tictacfun
    ```
 2. Install dependencies:
